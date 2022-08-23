@@ -12,6 +12,9 @@ img {
 }
 
 /*type*/
+html{
+  font-size: 16px;
+}
 body {
   font-family: "Anonymous Pro", monospace;
   color: #f0f0f0;
